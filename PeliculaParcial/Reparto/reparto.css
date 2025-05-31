@@ -1,0 +1,119 @@
+body{
+    background-color: #4e0401e0;
+    margin: 0;
+    padding: 0;
+    margin: 0;
+    padding: 0;
+    background-color: #420402e5;
+    background-image: url('../Imagenes/fondodeadpool3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ; 
+    color: rgb(110, 6, 6);
+}
+header{
+    background-color: rgb(8, 8, 8);
+    width: 100%;
+    padding: 15px 0;
+    text-align: center;
+    background-image: url(../Imagenes/DeadPooLogo.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+.navcentro{
+    color: rgb(218, 38, 38); 
+    text-decoration: solid;  
+    margin: 0 10px;
+    text-shadow: 2px 2px 2px rgba(226, 227, 231, 0.226);
+    font-family: 'deadpoolLetras';
+    font-optical-sizing: auto;
+    width: 100%;
+    font-size: 20px;
+}
+h1{
+    font-family: 'deadpoolLetras';
+    text-shadow: 3px 2px 5px rgb(0, 0, 0);
+    color: rgb(192, 12, 12);
+    font-size: 45px;
+}
+h2{
+    color: rgb(16, 13, 211);
+    font-family: 'deadpoolLetras'; 
+    font-size: 30px;
+    text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.973);
+    margin-left: 8%;
+}
+h3{
+    color: rgb(180, 90, 6);
+    font-family: 'deadpoolLetras';
+    font-size: 30px;
+    margin-left: 148px
+    
+}
+p{
+    color: white;
+    font-family: 'deadpoolLetras';
+    font-size: 30px;
+    margin-left: 10px; 
+}
+.actores{
+    margin-left: 149px;
+    width: auto¿;
+    height: 400px;
+}
+.personajes{
+    color: white;
+    font-family: 'deadpoolLetras';
+    font-size: 30px;
+    margin-left: 146px
+}
+.guion{
+    font-family: 'deadpoolLetras';
+    font-size: 20px;
+    margin-left: 148px
+}
+.director{
+    color: white;
+    font-family: 'deadpoolLetras';
+    font-size: 30px;
+    margin-left: 152px
+}
+footer .color{
+	color: rgb(141, 5, 5); 
+    text-decoration: solid;  
+    margin: 0 10px;
+    text-shadow: 2px 2px 2px rgba(88, 90, 228, 0.582);
+    font-family: 'deadpoolLetras';
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+footer{
+	background-color: rgba(0, 0, 0, 0.842);
+    width: 100%;
+    padding: 74px 0;
+    text-align: center;
+    margin: -1px 0;
+}
+footer p{
+    text-align: center;
+    font-family: 'deadpoolLetras';
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;  
+	color: rgb(255, 255, 255);
+}
+hr{
+    width: 50%;
+}
+strong{
+    color: rgba(236, 234, 234, 0.925);
+}
+@font-face {
+    font-family: 'deadpoolLetras';
+    src: url(./fuente\ tipografia\ deadpool/) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+

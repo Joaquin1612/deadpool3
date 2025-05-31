@@ -1,0 +1,148 @@
+body{
+    background-color: hsla(2, 97%, 15%, 0.878);
+    margin: 0;
+    padding: 0;
+    background-color: #420402e5;
+    background-image: url('../Imagenes/fondodeadpool3.jpg');
+    background-size: 300%;
+    background-position: center; 
+    color: rgb(110, 6, 6);
+}
+header{
+    background-color: rgb(8, 8, 8);
+    width: 100%;
+    padding: 15px 0;
+    text-align: center;
+    background-image: url(../Imagenes/DeadPooLogo.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.navcentro{
+    color: rgb(192, 12, 12);
+    text-decoration: solid;
+    margin: 0 10px;
+    text-shadow: 2px 2px 2px rgba(226, 227, 231, 0.226);
+    font-family: 'deadpoolLetras';;
+    font-optical-sizing: auto;
+    font-size: 20px;
+}
+.centro{
+    text-align: center;
+}
+
+h1{
+    font-family: 'deadpoolLetras';
+    text-shadow: 3px 2px 5px rgb(0, 0, 0);
+    color: rgb(192, 12, 12);
+    font-size: 45px;
+}
+.encabezados{
+    color: blue;
+    text-shadow: 1px 1px 3px rgba(214, 177, 9, 0.849);
+    font-family: 'deadpoolLetras';
+    font-size: 35px;
+    margin-left: 148px
+}
+.texto{
+    color: white;
+    font-family: 'deadpoolLetras';
+    font-size: 20px;
+    margin-left: 148px
+}
+
+.texto{
+    color: white;
+    font-family: 'deadpoolLetras';
+    font-size: 20px;
+    margin-left: 148px
+}
+.texto{
+    color: white;
+    font-family: 'deadpoolLetras';
+    font-size: 20px;
+    margin-left: 148px
+}
+figure{
+    text-align: center;
+}
+.texto{
+    color: white;
+    font-family: 'deadpoolLetras';
+    font-size: 20px;
+    margin-left: 148px
+}
+.listas{
+    
+    font-family: 'deadpoolLetras';
+    font-size: 20px;
+    margin-left: 148px
+}
+.texto{
+    color: white;
+    font-family: 'deadpoolLetras';
+    font-size: 20px;
+    margin-left: 148px
+}
+p{
+    color: white;
+    font-family: 'deadpoolLetras';
+    font-size: 20px;
+    margin-left: 148px
+}
+.dedosnova{
+    width: 900px;
+    height: 450px;
+}
+.strong{
+    color: rgba(201, 165, 3, 0.808);
+}
+.imgHistoria{
+    
+    width: auto;
+    height: 650px;
+    margin-right: 33%;
+}
+.img{
+    width: auto;
+    height: 400px;
+   margin-right: 4%;
+}
+footer .color{
+	color: rgb(141, 5, 5); 
+    text-decoration: solid;  
+    margin: 0 10px;
+    text-shadow: 2px 2px 2px rgba(88, 90, 228, 0.582);
+    font-family: 'deadpoolLetras';
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+footer{
+	background-color: rgba(0, 0, 0, 0.842);
+    width: 100%;
+    padding: 74px 0;
+    text-align: center;
+    margin: -1px 0;
+}
+footer p{
+    text-align: center;
+    font-family: 'deadpoolLetras';
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;  
+	color: rgb(255, 255, 255);
+}
+hr{
+    width: 50%;
+}
+.encabezado{
+    text-shadow: 1px 1px 3px rgba(209, 145, 8, 0.849);
+    font-family: 'deadpoolLetras';
+    font-size: 35px;
+    margin-left: 30%
+}
+@font-face {
+    font-family: 'deadpoolLetras';
+    src: url(./fuente\ tipografia\ deadpool/) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
